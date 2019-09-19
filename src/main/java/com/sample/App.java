@@ -1,4 +1,4 @@
-package com.javacodegeeks;
+package com.sample;
 
 /**
  * Author: Stathis

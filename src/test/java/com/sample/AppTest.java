@@ -1,7 +1,9 @@
-package com.javacodegeeks;
+package com.sample;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import com.sample.App;
 
 /**
  * Unit test for simple Application.
